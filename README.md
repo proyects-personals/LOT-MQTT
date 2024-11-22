@@ -33,7 +33,7 @@ Este proyecto simula una solución IoT con un sensor de luz y un interruptor de 
 
 ### Comandos adicionales
 
-Para publicar datos desde un script Bash:
+6. Para publicar datos desde un script Bash:
     ```bash
     chmod +x publicar_sensor.sh
     chmod +x interruptor_luz.sh
